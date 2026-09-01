@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title: Yile Wang | Academic Portfolio
+description: Research in financial engineering, agricultural economics, policy evaluation, and data science.
+url: "https://karlheinrich-jpg.github.io"
+lang: en
+
+# The site is intentionally built with custom HTML and CSS.
+# GitHub Pages still uses this file for site metadata.
